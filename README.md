@@ -50,7 +50,7 @@
   />
 </a>
 
-
+<br>
 
 ### 1. College Query Chatbot
 [![Live](https://img.shields.io/badge/Live-5A189A?style=for-the-badge&logo=firefox&logoColor=white)](http://collegechatbot.tiiny.site/)
