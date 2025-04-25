@@ -39,13 +39,14 @@
 
 ## 🏆 Featured Projects
 
+
 <a href="https://app.daily.dev/goofy_guy" align="right">
   <img 
-    src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?type=default&r=b4m" 
-    width="356" 
+    src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?type=default&r=$((RANDOM))&theme=nightowl" 
+    width="340"
     alt="Pankaj Tyagi's Dev Card"
     align="right"
-    style="border-radius: 12px; border: 2px solid #58a6ff; box-shadow: 0 8px 16px rgba(0,0,0,0.3); margin-left: 20px;"
+    style="border-radius: 12px; border: 2px solid #7B2CBF; box-shadow: 0 8px 24px rgba(123,44,191,0.3); margin: 0 0 20px 20px;"
   />
 </a>
 
