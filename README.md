@@ -19,7 +19,7 @@
 - 💻 **Full-stack developer** passionate about building efficient solutions
 - 🧠 **Continuous learner** exploring new technologies weekly
 - 🎯 **2024 Focus:** Mastering Next.js and cloud architectures
-- ✨ **Hobby:** I love to play **PC Games** in my free time.
+- ✨ **Hobby:** I love to play **PC Games** & watch **Animes** in my free time.
 
 **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
