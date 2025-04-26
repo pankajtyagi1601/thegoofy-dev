@@ -5,7 +5,7 @@
 ### Full Stack Developer & Tech Enthusiast
 
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=firefox&logoColor=white)](https://thegoofy-guy.is-a-dev/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=firefox&logoColor=white)](https://thegoofy-guy.is-a.dev)
 [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thegoofyy_guy)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-201E43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thegoofy-dev)
 [![Email Badge](https://img.shields.io/badge/Gmail-092B9C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajtyagi1601@gmail.com)
