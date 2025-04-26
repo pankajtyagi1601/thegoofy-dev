@@ -16,10 +16,6 @@
 
 ## 🚀 About Me
 
-
-
-
-
 - 💻 **Full-stack developer** passionate about building efficient solutions
 - 🧠 **Continuous learner** exploring new technologies weekly
 - 🎯 **2024 Focus:** Mastering Next.js and cloud architectures
@@ -50,7 +46,7 @@
   />
 </a>
 
-<br>
+
 
 ### 1. College Query Chatbot
 [![Live](https://img.shields.io/badge/Live-5A189A?style=for-the-badge&logo=firefox&logoColor=white)](http://collegechatbot.tiiny.site/)
@@ -79,7 +75,6 @@
 
 <div align="center">
   
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thegoofy-dev&show_icons=true&theme=midnight-purple&hide_border=false)](https://github.com/thegoofy-dev)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thegoofy-dev&theme=midnight-purple)](https://git.io/streak-stats)
 
