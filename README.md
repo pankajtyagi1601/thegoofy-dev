@@ -19,7 +19,7 @@
 - 💻 **Full-stack developer** passionate about building efficient solutions
 - 🧠 **Continuous learner** exploring new technologies weekly
 - 🎯 **2024 Focus:** Mastering Next.js and cloud architectures
-- ✨ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- ✨ **Hobby:** I love to play **PC Games** in my free time.
 
 **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
