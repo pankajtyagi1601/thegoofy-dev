@@ -1,8 +1,8 @@
 name: Update README
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours (more frequent updates)
-  workflow_dispatch:
+    - cron: '0 12 * * *'  # Daily at noon UTC
+  workflow_dispatch:      # Manual trigger option
 
 jobs:
   update:
