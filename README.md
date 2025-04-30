@@ -38,7 +38,7 @@
 
 <a href="https://app.daily.dev/goofy_guy" align="right">
   <img 
-    src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?r=464&theme=nightowl" 
+    src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?r=22896&theme=nightowl" 
     width="340"
     alt="Pankaj Tyagi's Dev Card"
     align="right"
