@@ -30,6 +30,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/-Nodemailer-339933?logo=mail.ru&logoColor=white)
+![EmailJS](https://img.shields.io/badge/-EmailJS-CF2C84?logo=gmail&logoColor=white)
 
 ---
 
