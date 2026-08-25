@@ -47,7 +47,7 @@
 ## 📊 GitHub & DailyDev Stats
 
 <div align="center">
-<a href="https://app.daily.dev/goofy_guy"><img src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?r=2264&theme=nightowl" width="652" alt="Pankaj Tyagi's Dev Card"/></a>
+<a href="https://app.daily.dev/goofy_guy"><img src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?r=18095&theme=nightowl" width="652" alt="Pankaj Tyagi's Dev Card"/></a>
 </div>
 
 <div align="right">
